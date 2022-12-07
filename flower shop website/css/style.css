@@ -417,6 +417,12 @@ header .fa-bars{
     color:#555;
     font-size: 1.3rem;
 }
+.box img{
+    width: 200px;
+    height: 300px;
+
+    
+ }
 
 .products .box-container{
     display: flex;
