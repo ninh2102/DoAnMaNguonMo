@@ -199,11 +199,8 @@ section{
     font-size: 1.7rem;
     background-color: pink;
 }
-/*Ninh đã sửa*/
 
-.btn:hover{
-    background: var(--pink);
-}
+
 header{
     position: fixed;
     top:0; left:0; right:0;
@@ -420,6 +417,12 @@ header .fa-bars{
     color:#555;
     font-size: 1.3rem;
 }
+.box img{
+    width: 200px;
+    height: 300px;
+
+    
+ }
 
 .products .box-container{
     display: flex;
